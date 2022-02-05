@@ -92,12 +92,57 @@ Assessment
 
 The assessment of the course will have the following components:
 
-| ASSIGNMENTS | PERCENTAGES |
-| --- | --- |
-| Contribution to class learning | 40% |
-| Group presentation of case debate | 10% |
-| Presentation and write-up of group project which applies concepts from this course to a specific firm | 40% |
-| Presentation and preparation on Colway case | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Contribution to class learning
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group presentation of case debate
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentation and write-up of group project which applies concepts from this course to a specific firm
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentation and preparation on Colway case
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Contribution to Class Learning
 ------------------------------
