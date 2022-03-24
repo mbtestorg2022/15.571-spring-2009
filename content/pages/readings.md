@@ -40,7 +40,7 @@ Why study IT value
 
 Carr, Nicholas. "[IT Doesn't Matter](http://www.roughtype.com/archives/2007/01/it_doesnt_matte.php)." _Harvard Business Review_, May 2003.
 
-Kohli, Rajiv, and Sarv Devaraj. "Realizing the Business Value of Information Technology Investments: An Organizational Process." _MIS Quarterly Executive_ 3, no. 1 (2004): 53-68. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.sba.oakland.edu/faculty/lauer/downloads/MIS625/Readings/Business%20value%20of%20IT%20investments.pdf))
+Kohli, Rajiv, and Sarv Devaraj. "Realizing the Business Value of Information Technology Investments: An Organizational Process." _MIS Quarterly Executive_ 3, no. 1 (2004): 53-68. ([PDF](http://www.sba.oakland.edu/faculty/lauer/downloads/MIS625/Readings/Business%20value%20of%20IT%20investments.pdf))
 
 
 {{< tdclose >}}
@@ -56,7 +56,7 @@ Aligning IT with business strategy
 {{< tdopen >}}
 
 
-Ross, Jeanne W., and Peter Weill. "Six IT Decisions Your IT People Shouldn't Make." _Harvard Business Review_, November 2002. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.qualified-audit-partners.be/user_files/ITforBoards/GVIT_Harvard_Business_Review-Ross_Jeane___Weill_Peter_Six_IT_Decsions_Your_IT_People_Shouldnt_Make_2002.pdf))
+Ross, Jeanne W., and Peter Weill. "Six IT Decisions Your IT People Shouldn't Make." _Harvard Business Review_, November 2002. ([PDF](http://www.qualified-audit-partners.be/user_files/ITforBoards/GVIT_Harvard_Business_Review-Ross_Jeane___Weill_Peter_Six_IT_Decsions_Your_IT_People_Shouldnt_Make_2002.pdf))
 
 Rettig, Cynthia. "[The Trouble With Enterprise Software](http://sloanreview.mit.edu/the-magazine/articles/2007/fall/49101/the-trouble-with-enterprise-software/)." _MIT Sloan Management Review_ 49, no. 1 (2007): 20-27.
 
@@ -80,7 +80,7 @@ An overview of business operating models
 {{< tdopen colspan="3" >}}
 
 
-Ross, Jeanne W. "Forget Strategy: Focus IT on Your Operating Model." _MIT Sloan CISR Research Briefing_ V, no. 3C (2005). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://online.flowpaper.com/783f071e/2005123COperatingModels/#page=1)) (Requires free registration.)
+Ross, Jeanne W. "Forget Strategy: Focus IT on Your Operating Model." _MIT Sloan CISR Research Briefing_ V, no. 3C (2005). ([PDF](https://online.flowpaper.com/783f071e/2005123COperatingModels/#page=1)) (Requires free registration.)
 
 ### Optional reading
 
@@ -154,7 +154,7 @@ Case: 7-Eleven Japan
 
 {{< tdclose >}}
 {{< tdopen >}}
-Nagayama Kei, and Peter Weill. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Seven Eleven Japan: Reinventing the Retail Business Model."](https://cisr.mit.edu/publication/MIT_CISRwp338_7-ElevenJapan_NagayamaWeill) MIT Sloan CISR Working Paper, no. 338, January 2004.
+Nagayama Kei, and Peter Weill. ["Seven Eleven Japan: Reinventing the Retail Business Model."](https://cisr.mit.edu/publication/MIT_CISRwp338_7-ElevenJapan_NagayamaWeill) MIT Sloan CISR Working Paper, no. 338, January 2004.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +198,7 @@ The data driven organization
 {{< tdopen >}}
 
 
-Anderson-Lehman, Ron, et al. "Continental Airlines Flies High with Real-time Business Intelligence." _MIS Quarterly Executive_ 3, no. 4 (2004): 163-176. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www2.commerce.virginia.edu/cmit/activities/MISQE%20final.pdf))
+Anderson-Lehman, Ron, et al. "Continental Airlines Flies High with Real-time Business Intelligence." _MIS Quarterly Executive_ 3, no. 4 (2004): 163-176. ([PDF](http://www2.commerce.virginia.edu/cmit/activities/MISQE%20final.pdf))
 
 Davenport, Thomas. "[Competing on Analytics](https://hbr.org/2006/01/competing-on-analytics)." _Harvard Business Review_, January 1, 2006.
 
@@ -322,7 +322,7 @@ Enterprise architecture
 {{< tdopen >}}
 
 
-Ross, Jeanne W. "Enterprise Architecture: Driving Business Benefits from IT." MIT Sloan CISR Working Paper, no. 359, April 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=920666))
+Ross, Jeanne W. "Enterprise Architecture: Driving Business Benefits from IT." MIT Sloan CISR Working Paper, no. 359, April 2006. ([PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=920666))
 
 Hagel, John, and John Seely Brown. "[Your Next IT Strategy](https://hbr.org/product/your-next-it-strategy/an/R0109G-PDF-ENG)." _Harvard Business Review_, October 1, 2001.
 
@@ -418,7 +418,7 @@ Case: Dow Chemical
 {{< tdopen >}}
 
 
-Ross, Jeanne W., and Cynthia M. Beath. "The Federated Broker Model at The Dow Chemical Company: Blending World Class Internal and External Capabilities." MIT Sloan CISR Working Paper, no. 355, July 2005. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://cisr.mit.edu/blog/documents/2005/07/01/mit_cisrwp355_dowchemfederatedbrkrmdlcase.pdf/))
+Ross, Jeanne W., and Cynthia M. Beath. "The Federated Broker Model at The Dow Chemical Company: Blending World Class Internal and External Capabilities." MIT Sloan CISR Working Paper, no. 355, July 2005. ([PDF](http://cisr.mit.edu/blog/documents/2005/07/01/mit_cisrwp355_dowchemfederatedbrkrmdlcase.pdf/))
 
 ———. "[Sustainable IT Outsourcing Success: Let Enterprise Architecture Be Your Guide](https://www.semanticscholar.org/paper/Sustainable-IT-Outsourcing-Success%3A-Let-Enterprise-Ross-Beath/5c9f030e2367144590dde13d7d1f8357fc50fb94)." _MIS Quarterly Executive_ 5, no. 4 (2006).
 
